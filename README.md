@@ -1,5 +1,5 @@
-# sauna
+# saunaoiratarena
 GitHub Pages
 Hello
-My name is Svetlana
-this is my first job on this server
+это сайт сауны "Ойрат Арена" в городе Элиста, Республика Калмыкия
+
